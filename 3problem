@@ -1,0 +1,34 @@
+
+<style>
+head 
+{
+     background-color: grey;
+  color:navy;
+font-family: Calibri;
+text-align: center;
+font-size: 72px;
+}
+body {
+  background-color: grey;
+}
+
+h1 {
+    color:navy;
+font-family: Calibri;
+    text-align: center;
+background-color: dark grey;
+}
+
+p1 {
+   color:navy;
+ font-family: Calibri;
+    font-size: 32px;
+
+p2 {
+   color:navy;
+ font-family: Calibri;
+    font-size: 32px;
+}
+<body>
+
+</style>
